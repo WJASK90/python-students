@@ -13,4 +13,4 @@ for i in range(value_1,value_2):
     else:
         print(end="")
 
-Print("Ciekawe, nie?")
+print("Ciekawe, nie?")
