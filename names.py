@@ -1,7 +1,7 @@
 print("Mam na imię...")  # tutaj wpisz swoje imię
 # i dodaj jeszcze jakiś ciekawy kod
 
-print("Mam na imię Wojtek)
+print("Mam na imię Wojtek")
       
 value_1 = int(input("Podaj początek zakresu liczb, sprawdzimy czy są podzielne przez 5 lub 8: "))
 value_2 = int(input("Podaj koniec zakresu liczb, sprawdzimy czy są podzielne przez 5 lub 8: "))
